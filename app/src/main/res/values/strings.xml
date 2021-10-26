@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Outreachy Odk-x Leaflet Project</string>
+    <string name="toolbar_title">My Web View</string>
+</resources>
